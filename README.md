@@ -58,15 +58,25 @@ https://github.com/zavavan/case2023_task2/blob/main/submission.myteam.news.3.csv
 ## Important Dates (AoE time)
 
 Task 1 Training data available: May 1, 2023 
+  
 Task 1 Test data available: May 15, 2023
+  
 Task 1 Evaluation period ends: June 30, 2023
+  
 Task 2 Sample Text  archive is available: May 22, 2023
+  
 Task 2 Text archive for evaluation is available: July 1, 2023
+  
 Task 2 Evaluation period starts: July 1, 2023
+  
 Task 2 Evaluation period  ends: July 24 
+  
 System Description Paper submissions due: July 31, 2023
+  
 Notification to authors after review: August 7, 2023
+  
 Camera ready: August 25, 2023
+  
 Workshop period @ RANLP: Sep 7-8, 2023
 
 
